@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
 <h3 align="center">A passionate frontend developer from Iraq</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yde4avuvwqeqk02tz4wasyofknb467mbmgpztgsp&rid=giphy.gif&ct=g)" alt="sydhaider" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." alt="sydhaider" /> </p>
 
 - 🌱 I’m currently learning **backend**
 
